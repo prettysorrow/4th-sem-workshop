@@ -1,6 +1,6 @@
 Summary
-  Generated on: 04/30/2026 - 19:16:05
-  Coverage date: 04/30/2026 - 19:16:04
+  Generated on: 04/30/2026 - 19:26:12
+  Coverage date: 04/30/2026 - 19:26:11
   Parser: Cobertura
   Assemblies: 2
   Classes: 8
@@ -28,5 +28,5 @@ Convolution.Core                        96%
   Convolution.Core.ImageGenerator      100%
 
 Convolution.Impl                      98.8%
-  Convolution.Impl.Parallel            100%
-  Convolution.Impl.Sequential         91.6%
+  Convolution.Impl.Parallel           98.6%
+  Convolution.Impl.Sequential          100%
